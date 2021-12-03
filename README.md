@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/tosinalabi0175/4a733f96-7786-4388-ab7e-688b05161c5b/9eceda8c-0a17-4ba4-9550-aabe1cd5c00e/_apis/work/boardbadge/3c5cefd7-e29a-490a-9bf5-35b63cb4fe51)](https://dev.azure.com/tosinalabi0175/4a733f96-7786-4388-ab7e-688b05161c5b/_boards/board/t/9eceda8c-0a17-4ba4-9550-aabe1cd5c00e/Microsoft.RequirementCategory)
 # blog-python
